@@ -1,2 +1,5 @@
 # MISBAR21-movie
 GDSC ASSIGNMENT
+MISBAR21 (1).png
+MISBAR21 (2).png
+MISBAR21-details.jpg
